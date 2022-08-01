@@ -370,6 +370,7 @@ footer{
 }
 
 #ticketCompra{
+    overflow: scroll;
     padding: 2%;
     display: flex;
     flex-flow: column wrap ;
